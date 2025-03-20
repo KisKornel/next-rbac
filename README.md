@@ -1,3 +1,11 @@
+## Role-based access control (RBAC) with next.js and supabase
+
+1. step: [Next.js](https://nextjs.org/docs/app/getting-started/installation) install.
+2. step: [Supabase settings](https://supabase.com/docs/guides/auth/server-side/nextjs?queryGroups=router&router=app) Setting up Server-Side Auth for Next.js
+3. step: [Supabase (RBAC)](https://supabase.com/docs/guides/database/postgres/custom-claims-and-role-based-access-control-rbac?queryGroups=language&language=plpgsql) Custom Claims & Role-based Access Control (RBAC)
+
+---
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
